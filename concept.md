@@ -1,10 +1,3 @@
-<head>
-    <style type="text/css">
-        @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
-        *{font-family:'Nanum Gothic'}
-    </style>
-</head>
-
 
 # 기능 요구사항
 
